@@ -1,1 +1,1 @@
-This Is a fun playing game to guess the Number what your system is thinking of.In this project i have use HTML, CSS, JavaScript 
+The GuessGame is a project created for fun playing game to guess the Number what that your system is giving as output.This project designed by using HTML, CSS, JavaScript 
